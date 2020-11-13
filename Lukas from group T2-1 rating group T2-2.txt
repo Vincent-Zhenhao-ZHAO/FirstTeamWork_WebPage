@@ -1,0 +1,28 @@
+•	Homepage:
+o	Cool to implement video and music
+o	Too many colors
+o	Used different fonts
+	Font feel weird with respect to AI
+o	Video is just somewhere on the page
+
+•	Introduction
+o	Looks nice
+o	Links on the left side could be more to the left
+o	Layout and colors are visually pleasing
+o	Font is nice 
+
+•	Benefits
+o	background image should be stretched I think
+o	Hard to read the text on the image
+o	Headline is just somewhere
+o	Cool Video implementation
+
+•	Drawbacks
+o	Pleasing to the eye
+o	Text a bit wide. It even cuts off on the right side if not in fullscreen
+
+•	Conclusion
+o	Same font and colors for every page could be useful
+o	Cool media implementation
+o	On some pages the layout was a bit weird and not centered / the links are floating at some weird position in the page
+
